@@ -1,4 +1,4 @@
-# APS — Meu Perfil
+# APS — Nossos Perfis
 
 Projeto desenvolvido para a atividade de Desenvolvimento Web.
 
