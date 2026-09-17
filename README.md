@@ -3,7 +3,7 @@
 Projeto desenvolvido para a atividade de Desenvolvimento Web.
 
 ## Autor
-Luís Henrique Correia Bento
+Luís Henrique Correia Bento e Leandro 
 
 ## Tecnologias
 - HTML5
