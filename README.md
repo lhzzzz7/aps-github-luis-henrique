@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a atividade de Desenvolvimento Web.
 
-## Autor
+## AutorES
 Luís Henrique Correia Bento e
 Leandro dos Santos de Oliveira
 
